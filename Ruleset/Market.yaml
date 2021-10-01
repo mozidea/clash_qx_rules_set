@@ -1,0 +1,23 @@
+payload:
+  # 自用列表
+  # 分类：数字货币交易所
+
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,poloniex.com
+  - DOMAIN-SUFFIX,bittrex.com
+  - DOMAIN-SUFFIX,bit.com
+  - DOMAIN-SUFFIX,matrixport.com
+  - DOMAIN-SUFFIX,ftx.com
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,pb.deribit.com # deribit 期权构建器
+  - DOMAIN-SUFFIX,metrics.deribit.com # deribit 图表
+  - DOMAIN-SUFFIX,pionex.cc
+  - DOMAIN-SUFFIX,static.webjiaoxue.cn
+  - DOMAIN-SUFFIX,mxc.me
+  - DOMAIN-SUFFIX,mxc.com
+  - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mxc.ai
+  - DOMAIN-SUFFIX,deribit.com
+  - DOMAIN-SUFFIX,greeks.live
