@@ -3,6 +3,7 @@ payload:
   # 分类：数字货币交易所
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.org  
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,poloniex.com
   - DOMAIN-SUFFIX,bittrex.com
