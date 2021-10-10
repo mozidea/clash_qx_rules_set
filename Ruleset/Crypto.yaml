@@ -1,6 +1,6 @@
 payload:
   # 自用列表
-  # 分类：数字货币交易所
+  # 分类：加密货币
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.org  
@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,digifinex.com
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,yearn.finance
+  - DOMAIN-SUFFIX,pancakeswap.finance
