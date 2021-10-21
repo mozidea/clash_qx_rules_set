@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,yearn.finance
   - DOMAIN-SUFFIX,pancakeswap.finance
+  - DOMAIN-SUFFIX,pancakeswap.com
   - DOMAIN-SUFFIX,traderjoexyz.com
   - DOMAIN-SUFFIX,projectserum.com
   - DOMAIN-SUFFIX,ascendex.com
@@ -36,4 +37,4 @@ payload:
   - DOMAIN-SUFFIX,thegraph.com
   - DOMAIN-SUFFIX,compound.finance
   - DOMAIN-SUFFIX,biki.cc
-  - DOMAIN-SUFFIX,pancakeswap.com
+  - DOMAIN-SUFFIX,dsgmetaverse.com
