@@ -1,0 +1,46 @@
+payload:
+  # 自用列表
+  # 分类：常用自定义
+  - DOMAIN-SUFFIX,bravesoftware.com
+  - DOMAIN-SUFFIX,brave.com
+  - DOMAIN-SUFFIX,z-o-o-m.eu
+  - DOMAIN-SUFFIX,v2fly.org
+  - DOMAIN-SUFFIX,juniperphoton.dev # unsplash 动态磁贴
+  - DOMAIN-SUFFIX,themoviedb.org 
+  - DOMAIN-SUFFIX,bgp.he.net # 检测VPS主机的IP是否为原生IP
+  - DOMAIN-SUFFIX,terabox.com # 百度云盘国际版只能代理登录
+  - DOMAIN-SUFFIX,substack.com
+  - DOMAIN-SUFFIX,198x.xyz
+  - DOMAIN-SUFFIX,mousegesturesapi.com
+  - DOMAIN-SUFFIX,1337x.to
+
+  # 分类：媒体
+  - DOMAIN-SUFFIX,i.vimeocdn.com
+
+  # 分类：数字货币
+  - DOMAIN-SUFFIX,minepi.com # pi币
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,l2beat.com
+  - DOMAIN-SUFFIX,defillama.com
+  - DOMAIN-SUFFIX,l2fees.info
+
+  # 分类：投资相关
+  - DOMAIN-SUFFIX,tradingview.com # tradingview
+  - DOMAIN-SUFFIX,chartex.pro
+  - DOMAIN-SUFFIX,blocktempo.com
+  - DOMAIN-SUFFIX,blockcast.it
+  - DOMAIN-SUFFIX,prysm.xyz
+  - DOMAIN-SUFFIX,maskverse.com
+  - DOMAIN-SUFFIX,footprint.network
+
+
+  # 分类：魔术网站
+  - DOMAIN-SUFFIX,vanishingincmagic.com
+  - DOMAIN-SUFFIX,theimpossibleco.com
+  - DOMAIN-SUFFIX,thejerx
+  - DOMAIN-SUFFIX,gkaps.com
+  
+  # 分类：xxx
+  - DOMAIN-SUFFIX,onejav.com
+  - DOMAIN-SUFFIX,av01.tv
