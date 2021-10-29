@@ -18,14 +18,11 @@ payload:
   - DOMAIN-SUFFIX,i.vimeocdn.com
 
   # 分类：数字货币
-  - DOMAIN-SUFFIX,minepi.com # pi币
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,l2beat.com
   - DOMAIN-SUFFIX,defillama.com
   - DOMAIN-SUFFIX,l2fees.info
-
-  # 分类：投资相关
   - DOMAIN-SUFFIX,tradingview.com # tradingview
   - DOMAIN-SUFFIX,chartex.pro
   - DOMAIN-SUFFIX,blocktempo.com
