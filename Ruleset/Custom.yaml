@@ -31,7 +31,8 @@ payload:
   - DOMAIN-SUFFIX,prysm.xyz
   - DOMAIN-SUFFIX,maskverse.com
   - DOMAIN-SUFFIX,footprint.network
-
+  - DOMAIN-SUFFIX,sandbox.game
+  - DOMAIN-SUFFIX,mirror-media.xyz
 
   # 分类：魔术网站
   - DOMAIN-SUFFIX,vanishingincmagic.com
