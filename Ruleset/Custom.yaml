@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,198x.xyz
   - DOMAIN-SUFFIX,mousegesturesapi.com
   - DOMAIN-SUFFIX,1337x.to
+  - DOMAIN-SUFFIX,protonmail.com
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
