@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,protonmail.com
   - DOMAIN-SUFFIX,hackmd.io
+  - DOMAIN-SUFFIX,zooqle.com
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
