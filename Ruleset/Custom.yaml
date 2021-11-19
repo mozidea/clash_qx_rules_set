@@ -17,7 +17,7 @@ payload:
   - DOMAIN-SUFFIX,hackmd.io
   - DOMAIN-SUFFIX,zooqle.com
   - DOMAIN-SUFFIX,hypothes.is
-  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,relay.firefox.com
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
