@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,sandbox.game
   - DOMAIN-SUFFIX,mirror-media.xyz
   - DOMAIN-SUFFIX,etherscan.io
+  - DOMAIN-SUFFIX,avedex.cc
 
   # 分类：魔术网站
   - DOMAIN-SUFFIX,vanishingincmagic.com
