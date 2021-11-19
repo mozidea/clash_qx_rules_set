@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,zooqle.com
   - DOMAIN-SUFFIX,hypothes.is
   - DOMAIN-SUFFIX,relay.firefox.com
+  - DOMAIN-SUFFIX,fanart.tv
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
