@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,hypothes.is
   - DOMAIN-SUFFIX,relay.firefox.com
   - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,deepl.com
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
