@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,mediafireuserupload.com
+  - DOMAIN-SUFFIX,the-block.club
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
