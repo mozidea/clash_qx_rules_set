@@ -24,6 +24,9 @@ payload:
 
   # 分类：媒体
   - DOMAIN-SUFFIX,i.vimeocdn.com
+  
+  # 分类：游戏
+  - DOMAIN-SUFFIX,cdn.nintendo.net
 
   # 分类：数字货币
   - DOMAIN-SUFFIX,coingecko.com
