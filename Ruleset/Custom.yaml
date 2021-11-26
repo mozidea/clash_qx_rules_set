@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,avedex.cc
   - DOMAIN-SUFFIX,defidaonews.com
+  - DOMAIN-SUFFIX,ikingdata.com
 
   # 分类：魔术网站
   - DOMAIN-SUFFIX,vanishingincmagic.com
