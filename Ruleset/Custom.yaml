@@ -1,6 +1,5 @@
 payload:
-  # 自用列表
-  # 分类：常用自定义
+
   - DOMAIN-SUFFIX,bravesoftware.com
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,z-o-o-m.eu
@@ -23,13 +22,13 @@ payload:
   - DOMAIN-SUFFIX,mediafireuserupload.com
   - DOMAIN-SUFFIX,the-block.club
 
-  # 分类：媒体
+  # video
   - DOMAIN-SUFFIX,i.vimeocdn.com
   
-  # 分类：游戏
+  # game
   - DOMAIN-SUFFIX,cdn.nintendo.net
 
-  # 分类：数字货币
+  # crypto
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,l2beat.com
@@ -48,14 +47,15 @@ payload:
   - DOMAIN-SUFFIX,avedex.cc
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,ikingdata.com
+  - DOMAIN-SUFFIX,block123.com
 
-  # 分类：魔术网站
+  # magic
   - DOMAIN-SUFFIX,vanishingincmagic.com
   - DOMAIN-SUFFIX,theimpossibleco.com
   - DOMAIN-SUFFIX,thejerx
   - DOMAIN-SUFFIX,gkaps.com
   - DOMAIN-SUFFIX,mentalmagicism.com
   
-  # 分类：xxx
+  # xxx
   - DOMAIN-SUFFIX,onejav.com
   - DOMAIN-SUFFIX,av01.tv
