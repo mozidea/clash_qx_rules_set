@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,defidaonews.com
   - DOMAIN-SUFFIX,ikingdata.com
   - DOMAIN-SUFFIX,block123.com
+  - DOMAIN-SUFFIX,messari.io
 
   # magic
   - DOMAIN-SUFFIX,vanishingincmagic.com
