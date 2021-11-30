@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,mediafireuserupload.com
   - DOMAIN-SUFFIX,the-block.club
+  - DOMAIN-SUFFIX,netlify.app
 
   # video
   - DOMAIN-SUFFIX,i.vimeocdn.com
@@ -49,6 +50,9 @@ payload:
   - DOMAIN-SUFFIX,ikingdata.com
   - DOMAIN-SUFFIX,block123.com
   - DOMAIN-SUFFIX,messari.io
+  - DOMAIN-SUFFIX,gizadao.com
+  - DOMAIN-SUFFIX,dexscreener.com
+  - DOMAIN-SUFFIX,monaconft.io
 
   # magic
   - DOMAIN-SUFFIX,vanishingincmagic.com
