@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,mediafireuserupload.com
   - DOMAIN-SUFFIX,the-block.club
   - DOMAIN-SUFFIX,netlify.app
+  - DOMAIN-SUFFIX,ghostery.net
 
   # video
   - DOMAIN-SUFFIX,i.vimeocdn.com
