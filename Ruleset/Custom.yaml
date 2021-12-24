@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,the-block.club
   - DOMAIN-SUFFIX,netlify.app
   - DOMAIN-SUFFIX,ghostery.net
+  - DOMAIN-SUFFIX,mirror.xyz
 
   # video
   - DOMAIN-SUFFIX,i.vimeocdn.com
