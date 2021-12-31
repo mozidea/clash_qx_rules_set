@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,mxc.me
   - DOMAIN-SUFFIX,mxc.com
   - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mexc.cc
   - DOMAIN-SUFFIX,mxc.ai
   - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,greeks.live
