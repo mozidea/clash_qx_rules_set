@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,ghostery.net
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mirror-api.com
-  - DOMAIN-SUFFIX,geetest.com
 
   # video
   - DOMAIN-SUFFIX,i.vimeocdn.com
