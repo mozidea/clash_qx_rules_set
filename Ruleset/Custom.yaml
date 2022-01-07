@@ -34,6 +34,7 @@ payload:
   
   # racing
   - DOMAIN-SUFFIX,racedepartment.com
+  - DOMAIN-SUFFIX,assettocorsa.club
 
   # crypto
   - DOMAIN-SUFFIX,coingecko.com
