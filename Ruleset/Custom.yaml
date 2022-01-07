@@ -31,6 +31,9 @@ payload:
   
   # game
   - DOMAIN-SUFFIX,cdn.nintendo.net
+  
+  # racing
+  - DOMAIN-SUFFIX,racedepartment.com
 
   # crypto
   - DOMAIN-SUFFIX,coingecko.com
