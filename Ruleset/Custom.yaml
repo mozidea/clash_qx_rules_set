@@ -27,7 +27,7 @@ payload:
   - DOMAIN-SUFFIX,mirror-api.com
 
   # video
-  - DOMAIN-SUFFIX,i.vimeocdn.com
+  - DOMAIN-SUFFIX,vimeocdn.com
   
   # game
   - DOMAIN-SUFFIX,cdn.nintendo.net
