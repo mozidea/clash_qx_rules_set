@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-SUFFIX,mirror-api.com
   - DOMAIN-SUFFIX,wombo.art
+  - DOMAIN-SUFFIX,rutracker.org
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
