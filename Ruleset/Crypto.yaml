@@ -2,6 +2,7 @@ payload:
   # 自用列表
   # 分类：加密货币
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gate.tv
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.org  
