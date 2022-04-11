@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,wombo.art
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,gravatar.com
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
