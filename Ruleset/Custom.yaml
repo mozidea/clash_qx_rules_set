@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,vinc.gumlet.io
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
