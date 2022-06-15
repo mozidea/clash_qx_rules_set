@@ -1,6 +1,5 @@
 payload:
-  # 自用列表
-  # 分类：常用自定义
+
   - DOMAIN-SUFFIX,bravesoftware.com
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,z-o-o-m.eu
@@ -15,11 +14,37 @@ payload:
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,protonmail.com
   - DOMAIN-SUFFIX,hackmd.io
+  - DOMAIN-SUFFIX,zooqle.com
+  - DOMAIN-SUFFIX,hypothes.is
+  - DOMAIN-SUFFIX,relay.firefox.com
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,mediafireuserupload.com
+  - DOMAIN-SUFFIX,the-block.club
+  - DOMAIN-SUFFIX,netlify.app
+  - DOMAIN-SUFFIX,ghostery.net
+  - DOMAIN-SUFFIX,mirror.xyz
+  - DOMAIN-SUFFIX,mirror-api.com
+  - DOMAIN-SUFFIX,wombo.art
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,gumlet.io
+  - DOMAIN-SUFFIX,gumlet.com
+  - DOMAIN-SUFFIX,mypikpak.com
 
-  # 分类：媒体
-  - DOMAIN-SUFFIX,i.vimeocdn.com
+  # video
+  - DOMAIN-SUFFIX,vimeocdn.com
+  
+  # game
+  - DOMAIN-SUFFIX,cdn.nintendo.net
+  
+  # racing
+  - DOMAIN-SUFFIX,racedepartment.com
+  - DOMAIN-SUFFIX,assettocorsa.club
+  - DOMAIN-SUFFIX,simhubdash.com
 
-  # 分类：数字货币
+  # crypto
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinmarketcap.com
   - DOMAIN-SUFFIX,l2beat.com
@@ -35,14 +60,26 @@ payload:
   - DOMAIN-SUFFIX,sandbox.game
   - DOMAIN-SUFFIX,mirror-media.xyz
   - DOMAIN-SUFFIX,etherscan.io
+  - DOMAIN-SUFFIX,avedex.cc
+  - DOMAIN-SUFFIX,defidaonews.com
+  - DOMAIN-SUFFIX,ikingdata.com
+  - DOMAIN-SUFFIX,block123.com
+  - DOMAIN-SUFFIX,messari.io
+  - DOMAIN-SUFFIX,gizadao.com
+  - DOMAIN-SUFFIX,dexscreener.com
+  - DOMAIN-SUFFIX,monaconft.io
+  - DOMAIN-SUFFIX,cryptoquant.com
 
-  # 分类：魔术网站
+  # magic
   - DOMAIN-SUFFIX,vanishingincmagic.com
   - DOMAIN-SUFFIX,theimpossibleco.com
-  - DOMAIN-SUFFIX,thejerx
+  - DOMAIN-SUFFIX,thejerx.com
   - DOMAIN-SUFFIX,gkaps.com
   - DOMAIN-SUFFIX,mentalmagicism.com
+  - DOMAIN-SUFFIX,conjuringarchive.com
   
-  # 分类：xxx
+  # xxx
   - DOMAIN-SUFFIX,onejav.com
   - DOMAIN-SUFFIX,av01.tv
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,missav.com

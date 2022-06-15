@@ -2,6 +2,7 @@ payload:
   # 自用列表
   # 分类：加密货币
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gate.tv
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.org  
@@ -18,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,mxc.me
   - DOMAIN-SUFFIX,mxc.com
   - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mexc.cc
   - DOMAIN-SUFFIX,mxc.ai
   - DOMAIN-SUFFIX,deribit.com
   - DOMAIN-SUFFIX,greeks.live
@@ -47,3 +49,14 @@ payload:
   - DOMAIN-SUFFIX,arbitrum.io
   - DOMAIN-SUFFIX,lemma.finance
   - DOMAIN-SUFFIX,zapper.fi
+  - DOMAIN-SUFFIX,saber.so
+  - DOMAIN-SUFFIX,sushi.com
+  - DOMAIN-SUFFIX,crypto.com
+  - DOMAIN-SUFFIX,crypto.org
+  - DOMAIN-SUFFIX,apricot.one
+  - DOMAIN-SUFFIX,bkex.com
+  - DOMAIN-SUFFIX,marsecosystem.com
+  - DOMAIN-SUFFIX,bituniverse.org
+  - DOMAIN-SUFFIX,thetanarena.com
+  - DOMAIN-SUFFIX,codi.finance
+  - DOMAIN-SUFFIX,opensea.io
