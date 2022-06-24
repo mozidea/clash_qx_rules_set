@@ -32,6 +32,8 @@ payload:
   - DOMAIN-SUFFIX,gumlet.io
   - DOMAIN-SUFFIX,gumlet.com
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,ghostery.com
+  - DOMAIN-SUFFIX,gitcdn.link
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
