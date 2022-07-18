@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,ghostery.com
   - DOMAIN-SUFFIX,gitcdn.link
+  - DOMAIN-SUFFIX,cdn.convertbox.com
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
