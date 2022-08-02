@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.convertbox.com
   - DOMAIN-SUFFIX,assets.squarespace.com
   - DOMAIN-SUFFIX,static1.squarespace.com
+  - DOMAIN-SUFFIX,images.squarespace-cdn.com
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
