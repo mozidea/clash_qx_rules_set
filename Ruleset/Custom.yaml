@@ -35,6 +35,8 @@ payload:
   - DOMAIN-SUFFIX,ghostery.com
   - DOMAIN-SUFFIX,gitcdn.link
   - DOMAIN-SUFFIX,cdn.convertbox.com
+  - DOMAIN-SUFFIX,assets.squarespace.com
+  - DOMAIN-SUFFIX,static1.squarespace.com
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
