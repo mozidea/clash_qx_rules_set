@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,static1.squarespace.com
   - DOMAIN-SUFFIX,images.squarespace-cdn.com
   - DOMAIN-SUFFIX,rsshub.app
+  - DOMAIN-SUFFIX,picuki.com
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
