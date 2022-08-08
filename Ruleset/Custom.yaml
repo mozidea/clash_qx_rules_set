@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,assets.squarespace.com
   - DOMAIN-SUFFIX,static1.squarespace.com
   - DOMAIN-SUFFIX,images.squarespace-cdn.com
+  - DOMAIN-SUFFIX,rsshub.app
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
