@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,picuki.com
   - DOMAIN-SUFFIX,deviantart.com
+  - DOMAIN-SUFFIX,addons.mozilla.org
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
