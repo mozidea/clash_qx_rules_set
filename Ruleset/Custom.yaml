@@ -42,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,picuki.com
   - DOMAIN-SUFFIX,deviantart.com
   - DOMAIN-SUFFIX,addons.mozilla.org
+  - DOMAIN-SUFFIX,skiff.com
 
   # video
   - DOMAIN-SUFFIX,vimeocdn.com
