@@ -45,8 +45,11 @@ payload:
   - DOMAIN-SUFFIX,skiff.com
   - DOMAIN-SUFFIX,newsletterss.com
 
-  # video
+  # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
+  - DOMAIN-SUFFIX,lofi.co
+  - DOMAIN-SUFFIX,cdn.digitaloceanspaces.com
+  
   
   # game
   - DOMAIN-SUFFIX,cdn.nintendo.net
