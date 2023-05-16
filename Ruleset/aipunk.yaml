@@ -3,4 +3,5 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,freegpt.one
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,chatpdf.com
