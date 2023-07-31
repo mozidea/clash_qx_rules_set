@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,forefront.ai
   - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,anthropic.com
