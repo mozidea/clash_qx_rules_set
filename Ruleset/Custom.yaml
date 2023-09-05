@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,newsletterss.com
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,linktr.ee
+  - DOMAIN-SUFFIX,amzn.to
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
