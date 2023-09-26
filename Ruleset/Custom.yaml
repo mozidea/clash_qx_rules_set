@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,amzn.to
+  - DOMAIN-SUFFIX,zlibrary-china.se
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
