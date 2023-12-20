@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,linktr.ee
   - DOMAIN-SUFFIX,amzn.to
   - DOMAIN-SUFFIX,zlibrary-china.se
+  - DOMAIN-SUFFIX,brickfanatics.com
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
