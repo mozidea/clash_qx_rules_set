@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,rari.capital
   - DOMAIN-SUFFIX,dydx.exchange
   - DOMAIN-SUFFIX,thegraph.com
+  - DOMAIN-SUFFIX,gateio.services
   - DOMAIN-SUFFIX,compound.finance
   - DOMAIN-SUFFIX,biki.cc
   - DOMAIN-SUFFIX,dsgmetaverse.com
