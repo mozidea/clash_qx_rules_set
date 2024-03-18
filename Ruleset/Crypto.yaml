@@ -61,3 +61,6 @@ payload:
   - DOMAIN-SUFFIX,codi.finance
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN-SUFFIX,gateimg.com
+  - DOMAIN-SUFFIX,gateio.live
+  - DOMAIN-SUFFIX,gatedata.org
