@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,amzn.to
   - DOMAIN-SUFFIX,zlibrary-china.se
   - DOMAIN-SUFFIX,brickfanatics.com
+  - DOMAIN-SUFFIX,vol.moe
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
@@ -58,6 +59,7 @@ payload:
   
   # game
   - DOMAIN-SUFFIX,cdn.nintendo.net
+  - DOMAIN-SUFFIX,markonreview.com
   
   # racing
   - DOMAIN-SUFFIX,racedepartment.com
