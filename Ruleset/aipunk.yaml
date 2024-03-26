@@ -8,3 +8,6 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,suno.ai
+  - DOMAIN-SUFFIX,devv.ai
