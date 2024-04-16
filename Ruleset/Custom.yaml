@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,brickfanatics.com
   - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,f-droid.org
+  - DOMAIN-SUFFIX,x.com
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
