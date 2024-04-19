@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,f-droid.org
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,vox.com
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
