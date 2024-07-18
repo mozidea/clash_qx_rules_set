@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,vox.com
   - DOMAIN-SUFFIX,logseq.com
+  - DOMAIN-SUFFIX,b-cdn.net
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
