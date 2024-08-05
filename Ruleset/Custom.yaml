@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,bgp.he.net # 检测VPS主机的IP是否为原生IP
   - DOMAIN-SUFFIX,terabox.com # 百度云盘国际版只能代理登录
   - DOMAIN-SUFFIX,substack.com
-  - DOMAIN-SUFFIX,198x.xyz
   - DOMAIN-SUFFIX,mousegesturesapi.com
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,protonmail.com
@@ -33,11 +32,8 @@ payload:
   - DOMAIN-SUFFIX,gumlet.com
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,ghostery.com
-  - DOMAIN-SUFFIX,gitcdn.link
-  - DOMAIN-SUFFIX,cdn.convertbox.com
   - DOMAIN-SUFFIX,assets.squarespace.com
   - DOMAIN-SUFFIX,static1.squarespace.com
-  - DOMAIN-SUFFIX,images.squarespace-cdn.com
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,picuki.com
   - DOMAIN-SUFFIX,deviantart.com
@@ -54,7 +50,13 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,vox.com
   - DOMAIN-SUFFIX,logseq.com
+
+  # CDN
+  - DOMAIN-SUFFIX,squarespace-cdn.com
+  - DOMAIN-SUFFIX,gitcdn.link
+  - DOMAIN-SUFFIX,cdn.convertbox.com
   - DOMAIN-SUFFIX,b-cdn.net
+  - DOMAIN-SUFFIX,bootstrapcdn.com
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
