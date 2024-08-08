@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.convertbox.com
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,uscreencdn.com:443
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
