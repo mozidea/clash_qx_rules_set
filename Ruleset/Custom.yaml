@@ -70,6 +70,7 @@ payload:
   # game
   - DOMAIN-SUFFIX,cdn.nintendo.net
   - DOMAIN-SUFFIX,markonreview.com
+  - DOMAIN-SUFFIX,images.gog-statics.com
   
   # racing
   - DOMAIN-SUFFIX,racedepartment.com
