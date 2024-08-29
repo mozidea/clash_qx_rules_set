@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,logseq.com
   - DOMAIN-SUFFIX,refind.com
   - DOMAIN-SUFFIX,slate.com
+  - DOMAIN-SUFFIX,pypi.org
 
   # CDN
   - DOMAIN-SUFFIX,squarespace-cdn.com
