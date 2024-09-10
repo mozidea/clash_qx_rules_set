@@ -55,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,bigthink.com
+  - DOMAIN-SUFFIX,follow.is
 
   # CDN
   - DOMAIN-SUFFIX,squarespace-cdn.com
