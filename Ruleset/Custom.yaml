@@ -57,13 +57,18 @@ payload:
   - DOMAIN-SUFFIX,bigthink.com
   - DOMAIN-SUFFIX,follow.is
 
+  # Arc
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,arc.net
+  - DOMAIN-SUFFIX,api.segment.io
+
   # CDN
   - DOMAIN-SUFFIX,squarespace-cdn.com
   - DOMAIN-SUFFIX,gitcdn.link
   - DOMAIN-SUFFIX,cdn.convertbox.com
-  - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,uscreencdn.com
+  - DOMAIN-SUFFIX,b-cdn.net
 
   # stream media
   - DOMAIN-SUFFIX,vimeocdn.com
