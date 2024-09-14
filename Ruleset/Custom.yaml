@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,terabox.com # 百度云盘国际版只能代理登录
   - DOMAIN-SUFFIX,substack.com
   - DOMAIN-SUFFIX,mousegesturesapi.com
-  - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,protonmail.com
   - DOMAIN-SUFFIX,hackmd.io
   - DOMAIN-SUFFIX,zooqle.com
@@ -56,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,bigthink.com
   - DOMAIN-SUFFIX,follow.is
+  - DOMAIN-SUFFIX,images.weserv.nl
 
   # Arc
   - DOMAIN-SUFFIX,launchdarkly.com
