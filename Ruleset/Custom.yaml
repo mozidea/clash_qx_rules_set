@@ -132,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,sproutvideo.com
   - DOMAIN-SUFFIX,oneahead.com
   - DOMAIN-SUFFIX,tannens.com
+  - DOMAIN-SUFFIX,artofplay.com
   
   # xxx
   - DOMAIN-SUFFIX,av01.tv
