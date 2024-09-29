@@ -133,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,oneahead.com
   - DOMAIN-SUFFIX,tannens.com
   - DOMAIN-SUFFIX,artofplay.com
+  - DOMAIN-SUFFIX,theory11.com
   
   # xxx
   - DOMAIN-SUFFIX,av01.tv
