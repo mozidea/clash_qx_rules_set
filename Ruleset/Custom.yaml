@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,follow.is
   - DOMAIN-SUFFIX,images.weserv.nl
   - DOMAIN-SUFFIX,pixwox.com
+  - DOMAIN-SUFFIX,piokok.com
 
   # Arc
   - DOMAIN-SUFFIX,launchdarkly.com
