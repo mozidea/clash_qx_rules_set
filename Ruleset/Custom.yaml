@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,images.weserv.nl
   - DOMAIN-SUFFIX,pixwox.com
   - DOMAIN-SUFFIX,piokok.com
+  - DOMAIN-SUFFIX,posthog.com
 
   # Arc
   - DOMAIN-SUFFIX,launchdarkly.com
