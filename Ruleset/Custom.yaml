@@ -137,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,tannens.com
   - DOMAIN-SUFFIX,artofplay.com
   - DOMAIN-SUFFIX,theory11.com
+  - DOMAIN-SUFFIX,squashpublishing.com
   
   # xxx
   - DOMAIN-SUFFIX,av01.tv
