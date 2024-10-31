@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,pixwox.com
   - DOMAIN-SUFFIX,piokok.com
   - DOMAIN-SUFFIX,posthog.com
+  - DOMAIN-SUFFIX,forbes.com
 
   # Arc
   - DOMAIN-SUFFIX,launchdarkly.com
